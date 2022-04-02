@@ -1,1 +1,1 @@
-*Vagrant* _vagrant_
+"Vagrant" _vagrant_
